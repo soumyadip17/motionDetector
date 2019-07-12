@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: Python-video-annotator-module-contours-images
+Version: 0.4
+Summary: UNKNOWN
+Home-page: https://bitbucket.org/fchampalimaud/pythonvideoannotator-module-controursimages
+Author: ['Ricardo Ribeiro']
+Author-email: ricardojvr@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+This is a module of the PythonVideoAnnotator application.
+
+You can find the documentation for this module as well as for the PythonVideoAnnotator application here:
+
+https://pythonvideoannotator.readthedocs.io/en/master/
+

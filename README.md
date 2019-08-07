@@ -1,4 +1,4 @@
-# motionDetector
+# Motion Detector
 Motion Detection using OpenCV and Python
 The trivial idea is to compute the difference between two frames apply a threshold the separate pixels that have changed from the others and then count all the black pixels. Then the average is calculated with this count and the total number of pixels and depending of the ceil the event is triggered or not.
 
